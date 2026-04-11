@@ -1,6 +1,6 @@
 # 👨‍💻 Data Science & Data Analyst Portfolio
 
-Hi, I'm Sushant K Sawant 👋  
+Hi, I'm Sushant K Sawant👋  
 Aspiring Data Analyst / Data Scientist skilled in Data Visualization, Machine Learning, and Business Insights.
 
 ---
@@ -64,11 +64,79 @@ Aspiring Data Analyst / Data Scientist skilled in Data Visualization, Machine Le
 
 ---
 
+
+## 💼 Experience
+
+**Customer Support Associate** – TECH MAHINDRA  
+📅 Oct 2023 – Oct 2024  
+
+**IT Support Engineer** – RSCOE  
+📅 Nov 2024 – Feb 2026  
+
+---
+
+## 🎓 Education
+
+- 🎓 M.Tech – JSPM Rajarshi Shahu College of Engineering (2023–2026) – 72.53%  
+- 🎓 B.E (E&TC) – JSPM RSCOE (2018–2021) – 75.43%  
+- 🎓 Diploma (E&TC) – Dr. D Y Patil Polytechnic (2018) – 73.53%  
+- 🏫 SSC – 79.80%  
+
+---
+
+## 🛠 Technical Skills
+
+**Programming:** Python, SQL  
+**Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn  
+**Visualization:** Power BI, Tableau, Advanced Excel  
+**Database:** MySQL  
+
+**Soft Skills:** Communication, Problem Solving, Collaboration, Adaptability  
+
+---
+
+## 📜 Certifications
+
+- Advanced Excel, Power BI, Tableau for Data Analysis  
+- Machine Learning with Python  
+- SQL for Data Science  
+- Python for Data Science  
+
+---
+
+## 🧪 Virtual Experience (Forage)
+
+### Tata Data Visualization Simulation (Apr 2026)
+- Created interactive dashboards  
+- Designed executive-level visuals  
+- Prepared business strategy questions  
+
+---
+
+### Deloitte Data Analytics Simulation (Apr 2026)
+- Built Tableau dashboard  
+- Performed Excel-based data analysis  
+- Generated actionable insights  
+
+---
+
+### Lloyds Banking Group Data Science Simulation (Apr 2026)
+- Developed churn prediction model (Random Forest)  
+- Achieved ROC-AUC: 0.82  
+- Performed preprocessing & feature engineering  
+- Applied GridSearchCV for tuning  
+
+---
+
+
 ## 📫 Contact
 
-- LinkedIn: (Add your link)
-- Email: (your email)
+- LinkedIn: https://www.linkedin.com/in/sushant-sawant-28a29b363  
+- Email: sushhantsawannt7222@gmail.com  
 
 ---
 
 ⭐ If you like my work, feel free to connect!
+
+
+
