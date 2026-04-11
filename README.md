@@ -5,7 +5,7 @@ Aspiring Data Analyst / Data Scientist skilled in Data Visualization, Machine Le
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects 
 
 ---
 
