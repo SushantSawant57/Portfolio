@@ -10,25 +10,15 @@ Aspiring Data Analyst / Data Scientist skilled in Data Visualization, Machine Le
 ---
 
 ### 📊 1. Superstore Sales Dashboard (Power BI)
-🔗 https://github.com/your-username/superstore-sales-dashboard-powerbi  
+🔗 https://github.com/SushantSawant57/superstore-sales-dashboard-powerbi 
 
 - Analyzed 22K+ orders ($1.6M sales, $175K profit)  
 - Identified high-performing regions & products  
 - Built interactive KPI dashboard  
 
 ---
-
-### 📊 2. HR Analytics Dashboard (Tableau)
-🔗 https://github.com/your-username/hr-dashboard-tableau  
-
-- Analyzed 7,984 active & 966 terminated employees  
-- Explored workforce distribution & attrition  
-- Provided HR decision insights  
-
----
-
-### 📊 3. Candy Sales Dashboard (Excel)
-🔗 https://github.com/your-username/candy-sales-dashboard-excel  
+### 📊 2. Candy Sales Dashboard (Excel)
+🔗 https://github.com/SushantSawant57/candy-sales-dashboard-excel
 
 - Analyzed $141K sales & $93K profit  
 - Identified top products & seasonal trends  
@@ -36,8 +26,8 @@ Aspiring Data Analyst / Data Scientist skilled in Data Visualization, Machine Le
 
 ---
 
-### 🤖 4. Pizza Price Prediction (Machine Learning)
-🔗 https://github.com/your-username/pizza-price-prediction-ml  
+### 🤖 3. Pizza Price Prediction (Machine Learning)
+🔗 https://github.com/SushantSawant57/Pizza-Price-Prediction-ML
 
 - Built XGBoost regression model  
 - Predicted pizza prices using multiple features  
@@ -45,8 +35,8 @@ Aspiring Data Analyst / Data Scientist skilled in Data Visualization, Machine Le
 
 ---
 
-### 💻 5. Employee Management System (Python + MySQL)
-🔗 https://github.com/your-username/employee-management-system-python  
+### 💻 4. Employee Management System (Python + MySQL)
+🔗 https://github.com/SushantSawant57/Employee-Management-System  
 
 - Developed desktop CRUD application  
 - Integrated MySQL database  
@@ -76,8 +66,7 @@ Aspiring Data Analyst / Data Scientist skilled in Data Visualization, Machine Le
 ---
 
 ## 🎓 Education
-
-- 🎓 M.Tech – JSPM Rajarshi Shahu College of Engineering (2023–2026) – 72.53%  
+ 
 - 🎓 B.E (E&TC) – JSPM RSCOE (2018–2021) – 75.43%  
 - 🎓 Diploma (E&TC) – Dr. D Y Patil Polytechnic (2018) – 73.53%  
 - 🏫 SSC – 79.80%  
